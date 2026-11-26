@@ -1,4 +1,4 @@
-# Hi, I'm Nicola Qaisy 👋
+# Hi, I'm Nicola Qaisyah👋
 
 🎓 **Computer Engineering Student** at the University of Jordan  
 
