@@ -29,7 +29,7 @@ I'm a Computer Engineering student interested in building practical engineering 
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile] www.linkedin.com/in/nicola-qaisyeh-61b399279
+- LinkedIn: www.linkedin.com/in/nicola-qaisyeh-61b399279
 - GitHub: [github.com/Nicola-Qaisyah](https://github.com/Nicola-Qaisyah)
 
 ---
